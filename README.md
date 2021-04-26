@@ -1,3 +1,6 @@
+![](banner.png)
+
+
 # My VS Code Configuration 
 In this file, I have listed what Themes, plugins and font I use in my VS Code Editor. I have attached my VS Code Json Configuration File as well. Hope you will like it. Please star the repository. 
 
