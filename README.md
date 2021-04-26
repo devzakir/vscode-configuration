@@ -1,14 +1,20 @@
 ![](banner.png)
 
 
-# My VS Code Configuration 
-In this file, I have listed what Themes, plugins and font I use in my VS Code Editor. I have attached my VS Code Json Configuration File as well. Hope you will like it. Please star the repository. 
+# 👨‍💻 My VS Code Configuration
+In this file, I have listed what themes, plugins and font I use in my VS Code editor. I have attached my VS Code json configuration file as well. Hope you will like it. Please star the repository. Thanks ♥
 
-## Themes I use
+## Table of Contents 💻
+- [Themes](#themes-i-use)
+- [Plugins](#plugins-i-use)
+- [Fonts](#fonts-i-use)
+- [Json Config](#vs-code-json-config)
+
+## Themes I use 🌈
 - [Ayu by teabyii](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 - [One Dark Pro by binaryify](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
-## Plugins I use
+## Plugins I use ⚙
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
@@ -29,12 +35,10 @@ In this file, I have listed what Themes, plugins and font I use in my VS Code Ed
 - [Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
-## Fonts I use
+## Fonts I use 😎
 - [Fira Code by @tonsky](https://github.com/devzakir/fira-code)
 
-
-
-## VS Code Json Config
+## VS Code Json Config 🛠
 ```
 {
     "workbench.iconTheme": "ayu",
