@@ -39,7 +39,7 @@ In this file, I have listed what themes, plugins and font I use in my VS Code ed
 - [Fira Code by @tonsky](https://github.com/devzakir/fira-code)
 
 ## VS Code Json Config 🛠
-```
+```json
 {
     "workbench.iconTheme": "ayu",
     "editor.wordWrap": "on",
