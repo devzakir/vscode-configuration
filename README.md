@@ -85,7 +85,10 @@ In this file, I have listed what themes, plugins and font I use in my VS Code ed
     "editor.accessibilitySupport": "off",
     "editor.formatOnSave": true,
     "git.enabled": false,
-    "workbench.colorTheme": "Ayu Mirage Bordered"
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
 }
 
 ```
